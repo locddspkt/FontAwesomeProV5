@@ -5,6 +5,7 @@ namespace FontAwesomeProV5;
 /***
  * Class FontAwesomeProV5_Service
  * change: save cache icon for each session
+ * icons link: https://fontawesome.com/v5.15/icons?d=gallery&p=2
  * @package FontAwesomeProV5
  */
 class FontAwesomeProV5_Service {
